@@ -1,2 +1,1 @@
-# Bootstrap
-a conference page 
+ A conference of technology sharing will held on 15/08/2023. Therre are Three session will be hold. 3 guest will conduct threee difeerent session. here i want to implement the book a seat button for registration by another html documents. 
